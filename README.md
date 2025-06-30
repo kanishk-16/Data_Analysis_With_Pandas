@@ -42,13 +42,6 @@ This repository contains hands-on data analysis projects using the **Pandas** li
    jupyter notebook notebooks/movie_analysis.ipynb
    ```
 
-## 📌 To Do
-
-* [ ] Add support for CSV upload form
-* [ ] Create dynamic visual dashboards (e.g., with Plotly)
-* [ ] Genre-based rating prediction (ML)
-* [ ] Export insights to PDF
-
 ## 🧐 Author
 
 **Kanishk Vikram**
